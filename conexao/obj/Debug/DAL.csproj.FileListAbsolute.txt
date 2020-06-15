@@ -1,0 +1,72 @@
+C:\Users\Marcos\source\repos\base\conexao\bin\Debug\conexao.dll
+C:\Users\Marcos\source\repos\base\conexao\bin\Debug\conexao.pdb
+C:\Users\Marcos\source\repos\base\conexao\bin\Debug\MODEL.dll
+C:\Users\Marcos\source\repos\base\conexao\bin\Debug\MySql.Data.dll
+C:\Users\Marcos\source\repos\base\conexao\bin\Debug\MODEL.pdb
+C:\Users\Marcos\source\repos\base\conexao\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Marcos\source\repos\base\conexao\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\source\repos\base\conexao\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Marcos\source\repos\base\conexao\obj\Debug\conexao.dll
+C:\Users\Marcos\source\repos\base\conexao\obj\Debug\conexao.pdb
+C:\Users\rafae\Desktop\Nova pasta\pic\base\conexao\bin\Debug\conexao.dll
+C:\Users\rafae\Desktop\Nova pasta\pic\base\conexao\bin\Debug\conexao.pdb
+C:\Users\rafae\Desktop\Nova pasta\pic\base\conexao\bin\Debug\MODEL.dll
+C:\Users\rafae\Desktop\Nova pasta\pic\base\conexao\bin\Debug\MySql.Data.dll
+C:\Users\rafae\Desktop\Nova pasta\pic\base\conexao\bin\Debug\Google.Protobuf.dll
+C:\Users\rafae\Desktop\Nova pasta\pic\base\conexao\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\rafae\Desktop\Nova pasta\pic\base\conexao\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\rafae\Desktop\Nova pasta\pic\base\conexao\bin\Debug\Renci.SshNet.dll
+C:\Users\rafae\Desktop\Nova pasta\pic\base\conexao\bin\Debug\MODEL.pdb
+C:\Users\rafae\Desktop\Nova pasta\pic\base\conexao\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\rafae\Desktop\Nova pasta\pic\base\conexao\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Desktop\Nova pasta\pic\base\conexao\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\rafae\Desktop\Nova pasta\pic\base\conexao\obj\Debug\conexao.dll
+C:\Users\rafae\Desktop\Nova pasta\pic\base\conexao\obj\Debug\conexao.pdb
+C:\Users\rafae\Desktop\trabalhos\pic\base\conexao\bin\Debug\conexao.dll
+C:\Users\rafae\Desktop\trabalhos\pic\base\conexao\bin\Debug\conexao.pdb
+C:\Users\rafae\Desktop\trabalhos\pic\base\conexao\bin\Debug\MODEL.dll
+C:\Users\rafae\Desktop\trabalhos\pic\base\conexao\bin\Debug\MySql.Data.dll
+C:\Users\rafae\Desktop\trabalhos\pic\base\conexao\bin\Debug\Google.Protobuf.dll
+C:\Users\rafae\Desktop\trabalhos\pic\base\conexao\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\rafae\Desktop\trabalhos\pic\base\conexao\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\rafae\Desktop\trabalhos\pic\base\conexao\bin\Debug\Renci.SshNet.dll
+C:\Users\rafae\Desktop\trabalhos\pic\base\conexao\bin\Debug\MODEL.pdb
+C:\Users\rafae\Desktop\trabalhos\pic\base\conexao\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\rafae\Desktop\trabalhos\pic\base\conexao\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Desktop\trabalhos\pic\base\conexao\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\rafae\Desktop\trabalhos\pic\base\conexao\obj\Debug\conexao.dll
+C:\Users\rafae\Desktop\trabalhos\pic\base\conexao\obj\Debug\conexao.pdb
+C:\Users\Marcos\Desktop\Nova pasta (2)\base\conexao\bin\Debug\conexao.dll
+C:\Users\Marcos\Desktop\Nova pasta (2)\base\conexao\bin\Debug\conexao.pdb
+C:\Users\Marcos\Desktop\Nova pasta (2)\base\conexao\bin\Debug\MODEL.dll
+C:\Users\Marcos\Desktop\Nova pasta (2)\base\conexao\bin\Debug\MySql.Data.dll
+C:\Users\Marcos\Desktop\Nova pasta (2)\base\conexao\bin\Debug\Google.Protobuf.dll
+C:\Users\Marcos\Desktop\Nova pasta (2)\base\conexao\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Marcos\Desktop\Nova pasta (2)\base\conexao\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Marcos\Desktop\Nova pasta (2)\base\conexao\bin\Debug\Renci.SshNet.dll
+C:\Users\Marcos\Desktop\Nova pasta (2)\base\conexao\bin\Debug\MODEL.pdb
+C:\Users\Marcos\Desktop\Nova pasta (2)\base\conexao\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Marcos\Desktop\Nova pasta (2)\base\conexao\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\Nova pasta (2)\base\conexao\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Marcos\Desktop\Nova pasta (2)\base\conexao\obj\Debug\conexao.dll
+C:\Users\Marcos\Desktop\Nova pasta (2)\base\conexao\obj\Debug\conexao.pdb
+C:\Users\Marcos\Desktop\PIC\base\conexao\bin\Debug\conexao.dll
+C:\Users\Marcos\Desktop\PIC\base\conexao\bin\Debug\conexao.pdb
+C:\Users\Marcos\Desktop\PIC\base\conexao\bin\Debug\MODEL.dll
+C:\Users\Marcos\Desktop\PIC\base\conexao\bin\Debug\MySql.Data.dll
+C:\Users\Marcos\Desktop\PIC\base\conexao\bin\Debug\MODEL.pdb
+C:\Users\Marcos\Desktop\PIC\base\conexao\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Marcos\Desktop\PIC\base\conexao\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\PIC\base\conexao\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Marcos\Desktop\PIC\base\conexao\obj\Debug\conexao.dll
+C:\Users\Marcos\Desktop\PIC\base\conexao\obj\Debug\conexao.pdb
+C:\Users\Marcos\Downloads\base\conexao\bin\Debug\conexao.dll
+C:\Users\Marcos\Downloads\base\conexao\bin\Debug\conexao.pdb
+C:\Users\Marcos\Downloads\base\conexao\bin\Debug\MODEL.dll
+C:\Users\Marcos\Downloads\base\conexao\bin\Debug\MySql.Data.dll
+C:\Users\Marcos\Downloads\base\conexao\bin\Debug\MODEL.pdb
+C:\Users\Marcos\Downloads\base\conexao\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Marcos\Downloads\base\conexao\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Downloads\base\conexao\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Marcos\Downloads\base\conexao\obj\Debug\conexao.dll
+C:\Users\Marcos\Downloads\base\conexao\obj\Debug\conexao.pdb

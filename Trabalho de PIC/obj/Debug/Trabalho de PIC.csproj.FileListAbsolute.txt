@@ -1,0 +1,98 @@
+C:\Users\filip\Desktop\Trabalho de PIC\Trabalho de PIC\bin\Debug\Trabalho de PIC.exe.config
+C:\Users\filip\Desktop\Trabalho de PIC\Trabalho de PIC\bin\Debug\Trabalho de PIC.exe
+C:\Users\filip\Desktop\Trabalho de PIC\Trabalho de PIC\bin\Debug\Trabalho de PIC.pdb
+C:\Users\filip\Desktop\Trabalho de PIC\Trabalho de PIC\obj\Debug\Trabalho de PIC.csprojAssemblyReference.cache
+C:\Users\filip\Desktop\Trabalho de PIC\Trabalho de PIC\obj\Debug\Trabalho_de_PIC.Properties.Resources.resources
+C:\Users\filip\Desktop\Trabalho de PIC\Trabalho de PIC\obj\Debug\Trabalho de PIC.csproj.GenerateResource.cache
+C:\Users\filip\Desktop\Trabalho de PIC\Trabalho de PIC\obj\Debug\Trabalho de PIC.exe
+C:\Users\filip\Desktop\Trabalho de PIC\Trabalho de PIC\obj\Debug\Trabalho de PIC.pdb
+C:\Users\filip\Desktop\Trabalho de PIC\Trabalho de PIC\obj\Debug\Trabalho_de_PIC.Iniciar.resources
+C:\Users\filip\Desktop\Trabalho de PIC\Trabalho de PIC\obj\Debug\Trabalho_de_PIC.Ficha.resources
+C:\Users\filip\Desktop\Trabalho de PIC\Trabalho de PIC\obj\Debug\Trabalho_de_PIC.escolha.resources
+C:\Users\filip\Desktop\Trabalho de PIC\Trabalho de PIC\obj\Debug\Trabalho_de_PIC.buscar.resources
+C:\Users\filip\Desktop\Trabalho de PIC\Trabalho de PIC\obj\Debug\Trabalho_de_PIC.banco.resources
+C:\Users\filip\Desktop\Trabalho de PIC\Trabalho de PIC\obj\Debug\Trabalho_de_PIC.tela_banco.resources
+C:\abc\Trabalho de PIC\Trabalho de PIC\bin\Debug\Trabalho de PIC.exe.config
+C:\abc\Trabalho de PIC\Trabalho de PIC\bin\Debug\Trabalho de PIC.exe
+C:\abc\Trabalho de PIC\Trabalho de PIC\bin\Debug\Trabalho de PIC.pdb
+C:\abc\Trabalho de PIC\Trabalho de PIC\obj\Debug\Trabalho de PIC.csprojAssemblyReference.cache
+C:\abc\Trabalho de PIC\Trabalho de PIC\obj\Debug\Trabalho_de_PIC.buscar.resources
+C:\abc\Trabalho de PIC\Trabalho de PIC\obj\Debug\Trabalho_de_PIC.Ficha.resources
+C:\abc\Trabalho de PIC\Trabalho de PIC\obj\Debug\Trabalho_de_PIC.escolha.resources
+C:\abc\Trabalho de PIC\Trabalho de PIC\obj\Debug\Trabalho_de_PIC.Iniciar.resources
+C:\abc\Trabalho de PIC\Trabalho de PIC\obj\Debug\Trabalho_de_PIC.Properties.Resources.resources
+C:\abc\Trabalho de PIC\Trabalho de PIC\obj\Debug\Trabalho de PIC.csproj.GenerateResource.cache
+C:\abc\Trabalho de PIC\Trabalho de PIC\obj\Debug\Trabalho de PIC.csproj.CoreCompileInputs.cache
+C:\abc\Trabalho de PIC\Trabalho de PIC\obj\Debug\Trabalho de PIC.exe
+C:\abc\Trabalho de PIC\Trabalho de PIC\obj\Debug\Trabalho de PIC.pdb
+C:\abc\Trabalho de PIC\Trabalho de PIC\bin\Debug\BLL.dll
+C:\abc\Trabalho de PIC\Trabalho de PIC\bin\Debug\conexao.dll
+C:\abc\Trabalho de PIC\Trabalho de PIC\bin\Debug\MODEL.dll
+C:\abc\Trabalho de PIC\Trabalho de PIC\bin\Debug\MySql.Data.dll
+C:\abc\Trabalho de PIC\Trabalho de PIC\bin\Debug\BLL.pdb
+C:\abc\Trabalho de PIC\Trabalho de PIC\bin\Debug\conexao.pdb
+C:\abc\Trabalho de PIC\Trabalho de PIC\bin\Debug\MODEL.pdb
+C:\abc\Trabalho de PIC\Trabalho de PIC\obj\Debug\Trabalho de PIC.csproj.CopyComplete
+C:\abc\Trabalho de PIC\Trabalho de PIC\obj\Debug\Trabalho_de_PIC.Pesquisar.resources
+C:\Users\Marcos\Desktop\PIC\base\Trabalho de PIC\obj\Debug\Trabalho de PIC.csprojAssemblyReference.cache
+C:\Users\Marcos\Desktop\PIC\base\Trabalho de PIC\obj\Debug\Trabalho_de_PIC.buscar.resources
+C:\Users\Marcos\Desktop\PIC\base\Trabalho de PIC\obj\Debug\Trabalho_de_PIC.Ficha.resources
+C:\Users\Marcos\Desktop\PIC\base\Trabalho de PIC\obj\Debug\Trabalho_de_PIC.escolha.resources
+C:\Users\Marcos\Desktop\PIC\base\Trabalho de PIC\obj\Debug\Trabalho_de_PIC.Iniciar.resources
+C:\Users\Marcos\Desktop\PIC\base\Trabalho de PIC\obj\Debug\Trabalho_de_PIC.Pesquisar.resources
+C:\Users\Marcos\Desktop\PIC\base\Trabalho de PIC\obj\Debug\Trabalho_de_PIC.Properties.Resources.resources
+C:\Users\Marcos\Desktop\PIC\base\Trabalho de PIC\obj\Debug\Trabalho de PIC.csproj.GenerateResource.cache
+C:\Users\Marcos\Desktop\PIC\base\Trabalho de PIC\obj\Debug\Trabalho de PIC.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\PIC\base\Trabalho de PIC\obj\Debug\Trabalho de PIC.exe
+C:\Users\Marcos\Desktop\PIC\base\Trabalho de PIC\obj\Debug\Trabalho de PIC.pdb
+C:\Users\Marcos\Desktop\PIC\base\Trabalho de PIC\bin\Debug\Trabalho de PIC.exe.config
+C:\Users\Marcos\Desktop\PIC\base\Trabalho de PIC\bin\Debug\Trabalho de PIC.exe
+C:\Users\Marcos\Desktop\PIC\base\Trabalho de PIC\bin\Debug\Trabalho de PIC.pdb
+C:\Users\Marcos\Desktop\PIC\base\Trabalho de PIC\bin\Debug\BLL.dll
+C:\Users\Marcos\Desktop\PIC\base\Trabalho de PIC\bin\Debug\conexao.dll
+C:\Users\Marcos\Desktop\PIC\base\Trabalho de PIC\bin\Debug\MODEL.dll
+C:\Users\Marcos\Desktop\PIC\base\Trabalho de PIC\bin\Debug\BLL.pdb
+C:\Users\Marcos\Desktop\PIC\base\Trabalho de PIC\bin\Debug\conexao.pdb
+C:\Users\Marcos\Desktop\PIC\base\Trabalho de PIC\bin\Debug\MODEL.pdb
+C:\Users\Marcos\Desktop\PIC\base\Trabalho de PIC\obj\Debug\Trabalho de PIC.csproj.CopyComplete
+C:\Users\filip\Desktop\base\Trabalho de PIC\bin\Debug\Trabalho de PIC.exe.config
+C:\Users\filip\Desktop\base\Trabalho de PIC\bin\Debug\Trabalho de PIC.exe
+C:\Users\filip\Desktop\base\Trabalho de PIC\bin\Debug\Trabalho de PIC.pdb
+C:\Users\filip\Desktop\base\Trabalho de PIC\bin\Debug\BLL.dll
+C:\Users\filip\Desktop\base\Trabalho de PIC\bin\Debug\conexao.dll
+C:\Users\filip\Desktop\base\Trabalho de PIC\bin\Debug\MODEL.dll
+C:\Users\filip\Desktop\base\Trabalho de PIC\bin\Debug\BLL.pdb
+C:\Users\filip\Desktop\base\Trabalho de PIC\bin\Debug\conexao.pdb
+C:\Users\filip\Desktop\base\Trabalho de PIC\bin\Debug\MODEL.pdb
+C:\Users\filip\Desktop\base\Trabalho de PIC\obj\Debug\Trabalho de PIC.csprojAssemblyReference.cache
+C:\Users\filip\Desktop\base\Trabalho de PIC\obj\Debug\Trabalho_de_PIC.buscar.resources
+C:\Users\filip\Desktop\base\Trabalho de PIC\obj\Debug\Trabalho_de_PIC.Ficha.resources
+C:\Users\filip\Desktop\base\Trabalho de PIC\obj\Debug\Trabalho_de_PIC.escolha.resources
+C:\Users\filip\Desktop\base\Trabalho de PIC\obj\Debug\Trabalho_de_PIC.Iniciar.resources
+C:\Users\filip\Desktop\base\Trabalho de PIC\obj\Debug\Trabalho_de_PIC.Pesquisar.resources
+C:\Users\filip\Desktop\base\Trabalho de PIC\obj\Debug\Trabalho_de_PIC.Properties.Resources.resources
+C:\Users\filip\Desktop\base\Trabalho de PIC\obj\Debug\Trabalho de PIC.csproj.GenerateResource.cache
+C:\Users\filip\Desktop\base\Trabalho de PIC\obj\Debug\Trabalho de PIC.csproj.CopyComplete
+C:\Users\filip\Desktop\base\Trabalho de PIC\obj\Debug\Trabalho de PIC.exe
+C:\Users\filip\Desktop\base\Trabalho de PIC\obj\Debug\Trabalho de PIC.pdb
+C:\Users\Marcos\Downloads\base\Trabalho de PIC\bin\Debug\Trabalho de PIC.exe.config
+C:\Users\Marcos\Downloads\base\Trabalho de PIC\bin\Debug\Trabalho de PIC.exe
+C:\Users\Marcos\Downloads\base\Trabalho de PIC\bin\Debug\Trabalho de PIC.pdb
+C:\Users\Marcos\Downloads\base\Trabalho de PIC\bin\Debug\BLL.dll
+C:\Users\Marcos\Downloads\base\Trabalho de PIC\bin\Debug\conexao.dll
+C:\Users\Marcos\Downloads\base\Trabalho de PIC\bin\Debug\MODEL.dll
+C:\Users\Marcos\Downloads\base\Trabalho de PIC\bin\Debug\BLL.pdb
+C:\Users\Marcos\Downloads\base\Trabalho de PIC\bin\Debug\conexao.pdb
+C:\Users\Marcos\Downloads\base\Trabalho de PIC\bin\Debug\MODEL.pdb
+C:\Users\Marcos\Downloads\base\Trabalho de PIC\obj\Debug\Trabalho de PIC.csprojAssemblyReference.cache
+C:\Users\Marcos\Downloads\base\Trabalho de PIC\obj\Debug\Trabalho_de_PIC.buscar.resources
+C:\Users\Marcos\Downloads\base\Trabalho de PIC\obj\Debug\Trabalho_de_PIC.Ficha.resources
+C:\Users\Marcos\Downloads\base\Trabalho de PIC\obj\Debug\Trabalho_de_PIC.escolha.resources
+C:\Users\Marcos\Downloads\base\Trabalho de PIC\obj\Debug\Trabalho_de_PIC.Iniciar.resources
+C:\Users\Marcos\Downloads\base\Trabalho de PIC\obj\Debug\Trabalho_de_PIC.Pesquisar.resources
+C:\Users\Marcos\Downloads\base\Trabalho de PIC\obj\Debug\Trabalho_de_PIC.Properties.Resources.resources
+C:\Users\Marcos\Downloads\base\Trabalho de PIC\obj\Debug\Trabalho de PIC.csproj.GenerateResource.cache
+C:\Users\Marcos\Downloads\base\Trabalho de PIC\obj\Debug\Trabalho de PIC.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Downloads\base\Trabalho de PIC\obj\Debug\Trabalho de PIC.csproj.CopyComplete
+C:\Users\Marcos\Downloads\base\Trabalho de PIC\obj\Debug\Trabalho de PIC.exe
+C:\Users\Marcos\Downloads\base\Trabalho de PIC\obj\Debug\Trabalho de PIC.pdb

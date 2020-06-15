@@ -1,0 +1,18 @@
+C:\Users\Marcos\source\repos\base\MODEL\bin\Debug\MODEL.dll
+C:\Users\Marcos\source\repos\base\MODEL\bin\Debug\MODEL.pdb
+C:\Users\Marcos\source\repos\base\MODEL\obj\Debug\MODEL.csprojAssemblyReference.cache
+C:\Users\Marcos\source\repos\base\MODEL\obj\Debug\MODEL.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\source\repos\base\MODEL\obj\Debug\MODEL.dll
+C:\Users\Marcos\source\repos\base\MODEL\obj\Debug\MODEL.pdb
+C:\Users\Marcos\Desktop\Nova pasta (2)\base\MODEL\bin\Debug\MODEL.dll
+C:\Users\Marcos\Desktop\Nova pasta (2)\base\MODEL\bin\Debug\MODEL.pdb
+C:\Users\Marcos\Desktop\Nova pasta (2)\base\MODEL\obj\Debug\MODEL.csprojAssemblyReference.cache
+C:\Users\Marcos\Desktop\Nova pasta (2)\base\MODEL\obj\Debug\MODEL.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\Nova pasta (2)\base\MODEL\obj\Debug\MODEL.dll
+C:\Users\Marcos\Desktop\Nova pasta (2)\base\MODEL\obj\Debug\MODEL.pdb
+C:\Users\Marcos\Desktop\PIC\base\MODEL\bin\Debug\MODEL.dll
+C:\Users\Marcos\Desktop\PIC\base\MODEL\bin\Debug\MODEL.pdb
+C:\Users\Marcos\Desktop\PIC\base\MODEL\obj\Debug\MODEL.csprojAssemblyReference.cache
+C:\Users\Marcos\Desktop\PIC\base\MODEL\obj\Debug\MODEL.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\PIC\base\MODEL\obj\Debug\MODEL.dll
+C:\Users\Marcos\Desktop\PIC\base\MODEL\obj\Debug\MODEL.pdb

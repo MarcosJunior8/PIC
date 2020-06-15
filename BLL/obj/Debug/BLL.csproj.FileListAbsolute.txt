@@ -1,0 +1,84 @@
+C:\Users\Marcos\source\repos\base\BLL\bin\Debug\BLL.dll
+C:\Users\Marcos\source\repos\base\BLL\bin\Debug\BLL.pdb
+C:\Users\Marcos\source\repos\base\BLL\bin\Debug\conexao.dll
+C:\Users\Marcos\source\repos\base\BLL\bin\Debug\MODEL.dll
+C:\Users\Marcos\source\repos\base\BLL\bin\Debug\MySql.Data.dll
+C:\Users\Marcos\source\repos\base\BLL\bin\Debug\conexao.pdb
+C:\Users\Marcos\source\repos\base\BLL\bin\Debug\MODEL.pdb
+C:\Users\Marcos\source\repos\base\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Marcos\source\repos\base\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\source\repos\base\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Marcos\source\repos\base\BLL\obj\Debug\BLL.dll
+C:\Users\Marcos\source\repos\base\BLL\obj\Debug\BLL.pdb
+C:\Users\rafae\Desktop\Nova pasta\pic\base\BLL\bin\Debug\BLL.dll
+C:\Users\rafae\Desktop\Nova pasta\pic\base\BLL\bin\Debug\BLL.pdb
+C:\Users\rafae\Desktop\Nova pasta\pic\base\BLL\bin\Debug\conexao.dll
+C:\Users\rafae\Desktop\Nova pasta\pic\base\BLL\bin\Debug\MODEL.dll
+C:\Users\rafae\Desktop\Nova pasta\pic\base\BLL\bin\Debug\MySql.Data.dll
+C:\Users\rafae\Desktop\Nova pasta\pic\base\BLL\bin\Debug\Google.Protobuf.dll
+C:\Users\rafae\Desktop\Nova pasta\pic\base\BLL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\rafae\Desktop\Nova pasta\pic\base\BLL\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\rafae\Desktop\Nova pasta\pic\base\BLL\bin\Debug\Renci.SshNet.dll
+C:\Users\rafae\Desktop\Nova pasta\pic\base\BLL\bin\Debug\conexao.pdb
+C:\Users\rafae\Desktop\Nova pasta\pic\base\BLL\bin\Debug\MODEL.pdb
+C:\Users\rafae\Desktop\Nova pasta\pic\base\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\rafae\Desktop\Nova pasta\pic\base\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Desktop\Nova pasta\pic\base\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\rafae\Desktop\Nova pasta\pic\base\BLL\obj\Debug\BLL.dll
+C:\Users\rafae\Desktop\Nova pasta\pic\base\BLL\obj\Debug\BLL.pdb
+C:\Users\rafae\Desktop\trabalhos\pic\base\BLL\bin\Debug\BLL.dll
+C:\Users\rafae\Desktop\trabalhos\pic\base\BLL\bin\Debug\BLL.pdb
+C:\Users\rafae\Desktop\trabalhos\pic\base\BLL\bin\Debug\conexao.dll
+C:\Users\rafae\Desktop\trabalhos\pic\base\BLL\bin\Debug\MODEL.dll
+C:\Users\rafae\Desktop\trabalhos\pic\base\BLL\bin\Debug\MySql.Data.dll
+C:\Users\rafae\Desktop\trabalhos\pic\base\BLL\bin\Debug\Google.Protobuf.dll
+C:\Users\rafae\Desktop\trabalhos\pic\base\BLL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\rafae\Desktop\trabalhos\pic\base\BLL\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\rafae\Desktop\trabalhos\pic\base\BLL\bin\Debug\Renci.SshNet.dll
+C:\Users\rafae\Desktop\trabalhos\pic\base\BLL\bin\Debug\conexao.pdb
+C:\Users\rafae\Desktop\trabalhos\pic\base\BLL\bin\Debug\MODEL.pdb
+C:\Users\rafae\Desktop\trabalhos\pic\base\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\rafae\Desktop\trabalhos\pic\base\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Desktop\trabalhos\pic\base\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\rafae\Desktop\trabalhos\pic\base\BLL\obj\Debug\BLL.dll
+C:\Users\rafae\Desktop\trabalhos\pic\base\BLL\obj\Debug\BLL.pdb
+C:\Users\Marcos\Desktop\Nova pasta (2)\base\BLL\bin\Debug\BLL.dll
+C:\Users\Marcos\Desktop\Nova pasta (2)\base\BLL\bin\Debug\BLL.pdb
+C:\Users\Marcos\Desktop\Nova pasta (2)\base\BLL\bin\Debug\conexao.dll
+C:\Users\Marcos\Desktop\Nova pasta (2)\base\BLL\bin\Debug\MODEL.dll
+C:\Users\Marcos\Desktop\Nova pasta (2)\base\BLL\bin\Debug\MySql.Data.dll
+C:\Users\Marcos\Desktop\Nova pasta (2)\base\BLL\bin\Debug\Google.Protobuf.dll
+C:\Users\Marcos\Desktop\Nova pasta (2)\base\BLL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Marcos\Desktop\Nova pasta (2)\base\BLL\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Marcos\Desktop\Nova pasta (2)\base\BLL\bin\Debug\Renci.SshNet.dll
+C:\Users\Marcos\Desktop\Nova pasta (2)\base\BLL\bin\Debug\conexao.pdb
+C:\Users\Marcos\Desktop\Nova pasta (2)\base\BLL\bin\Debug\MODEL.pdb
+C:\Users\Marcos\Desktop\Nova pasta (2)\base\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Marcos\Desktop\Nova pasta (2)\base\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\Nova pasta (2)\base\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Marcos\Desktop\Nova pasta (2)\base\BLL\obj\Debug\BLL.dll
+C:\Users\Marcos\Desktop\Nova pasta (2)\base\BLL\obj\Debug\BLL.pdb
+C:\Users\Marcos\Desktop\PIC\base\BLL\bin\Debug\BLL.dll
+C:\Users\Marcos\Desktop\PIC\base\BLL\bin\Debug\BLL.pdb
+C:\Users\Marcos\Desktop\PIC\base\BLL\bin\Debug\conexao.dll
+C:\Users\Marcos\Desktop\PIC\base\BLL\bin\Debug\MODEL.dll
+C:\Users\Marcos\Desktop\PIC\base\BLL\bin\Debug\MySql.Data.dll
+C:\Users\Marcos\Desktop\PIC\base\BLL\bin\Debug\conexao.pdb
+C:\Users\Marcos\Desktop\PIC\base\BLL\bin\Debug\MODEL.pdb
+C:\Users\Marcos\Desktop\PIC\base\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Marcos\Desktop\PIC\base\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\PIC\base\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Marcos\Desktop\PIC\base\BLL\obj\Debug\BLL.dll
+C:\Users\Marcos\Desktop\PIC\base\BLL\obj\Debug\BLL.pdb
+C:\Users\Marcos\Downloads\base\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Marcos\Downloads\base\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Downloads\base\BLL\obj\Debug\BLL.dll
+C:\Users\Marcos\Downloads\base\BLL\obj\Debug\BLL.pdb
+C:\Users\Marcos\Downloads\base\BLL\bin\Debug\BLL.dll
+C:\Users\Marcos\Downloads\base\BLL\bin\Debug\BLL.pdb
+C:\Users\Marcos\Downloads\base\BLL\bin\Debug\conexao.dll
+C:\Users\Marcos\Downloads\base\BLL\bin\Debug\MODEL.dll
+C:\Users\Marcos\Downloads\base\BLL\bin\Debug\MySql.Data.dll
+C:\Users\Marcos\Downloads\base\BLL\bin\Debug\conexao.pdb
+C:\Users\Marcos\Downloads\base\BLL\bin\Debug\MODEL.pdb
+C:\Users\Marcos\Downloads\base\BLL\obj\Debug\BLL.csproj.CopyComplete
